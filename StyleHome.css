@@ -1,0 +1,52 @@
+body{
+    background-color: #bbbbbb;
+}
+
+h1{
+    text-align: left;
+    text-align: center;
+}
+
+.text2{
+    text-align: center;
+    border: 3px dashed #1e96ff;
+    background-color: #e0f6ff;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.strong2{
+    color: red;
+}
+
+img{
+    width: 100%;
+    margin: 0px;
+}
+
+#h12{
+    text-align: left;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 15%;
+}
+
+.diff {
+    background-color: aliceblue;
+}
+
+.ban {
+    background-color: aliceblue;
+}
+
+.imgdiferencias {
+    width: 50%;
+}
